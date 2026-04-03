@@ -1,0 +1,3 @@
+[submodule "clanki"]
+	path = clanki
+	url = https://github.com/jasperket/clanki.git
